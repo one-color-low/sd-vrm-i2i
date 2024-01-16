@@ -1,4 +1,8 @@
 # Description
+
+https://github.com/one-color-low/sd-vrm-i2i/assets/39424535/312063dc-ea15-44c3-a150-a8634c6e9560
+
+
 VRMの3DモデルからStable Diffusionのimage2imageを実行するアプリです。
 
 VRMビューアーには [bvh2vrma](https://github.com/vrm-c/bvh2vrma) 様を使用させていただいております。
